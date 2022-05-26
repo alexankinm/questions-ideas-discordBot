@@ -7,5 +7,5 @@ Bot have 4 commands:
 4. Say 
 
 ## Using 🎈
-- On file `main.py`, в переменные записать соответствующие данные.
+- On file `main.py`, write the relevant data into the variables.
 - Run the file `python main.py`
